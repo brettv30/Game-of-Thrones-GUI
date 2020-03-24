@@ -1,2 +1,2 @@
 # GoT-Project
-Here's a project I did a while back, it is basically a Game of Thrones GUI that shows off some my Java skills. Feel free to modify and change it any way you'd like! Constructive criticism is greatly appreciated
+Here's a project I did a while back, it is an interactive Game of Thrones GUI that allows the player to choose their house, number of family members, social standing, and other fun little things. In order for the project to work you need to download all files and then run the GoT panel. Hope you enjoy!
