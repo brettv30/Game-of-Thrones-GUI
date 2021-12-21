@@ -1,4 +1,4 @@
-# Advanced Java Final Project
+# Game of Thrones GUI
 
 Here is an interactive Game of Thrones GUI that I created as a final project for my Advanced Java course. The concepts used in this project are OOP, Inheritance, Aggregation, Enumerated Data Types, Array manipulation, GUI development, and Image handling. 
 
